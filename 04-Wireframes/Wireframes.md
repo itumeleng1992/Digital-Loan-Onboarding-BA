@@ -4,7 +4,7 @@
 
 ---
 
-![Mobile Microloan Onboarding Wireframes](./Mobile-Onboarding-Wireframes.png)
+![Mobile Microloan Onboarding Wireframes](./Mobile-Onboarding-Wireframes.jpg)
 
 ---
 
