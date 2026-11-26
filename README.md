@@ -4,7 +4,7 @@ A mid-tier South African digital lender is experiencing a **42% customer drop-of
 ## 2. Business Objectives & Success KPIs 
 * **Reduce Application Drop-Off:** Decrease funnel abandonment from 42% to **under 18%** within 6 months of launch.
 * **Accelerate Turnaround Time (TAT):** Cut average loan decisioning from 48 hours to **under 15 minutes**.
-* * **Ensure Regulatory Compliance:** Maintain 100% adherence to South African **FICA**, **POPIA**, and **National Credit Act (NCA)** affordability rules.
+* **Ensure Regulatory Compliance:** Maintain 100% adherence to South African **FICA**, **POPIA**, and **National Credit Act (NCA)** affordability rules.
 ## 3. Repository Structure
 * `01-Requirements/BRD.md` — Stakeholder analysis, scope, functional & non-functional requirements.
 * `02-Process-Models/` — "As-Is" vs. "To-Be" BPMN workflow diagrams.
